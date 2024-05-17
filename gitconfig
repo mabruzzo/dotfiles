@@ -1,0 +1,5 @@
+[user]
+	name = Matthew Abruzzo
+	email = matthewabruzzo@gmail.com
+[core]
+	editor = nvim
